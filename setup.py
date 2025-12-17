@@ -8,7 +8,7 @@ setuptools.setup(
     name="messagehub",
     version="0.1.2",
     author="xinqiyang",
-    author_email="xinqiyang@gmail.com",
+    author_email"channingbloodsworth19@gmail.com
     description="messagehub: crypto and traditional financial data hub",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -26,7 +26,7 @@ setuptools.setup(
 # DESCRIPTION = 'messagehub project'
 # URL = 'http://github.com/chaininout/messagehub'
 # EMAIL = 'admin@chaininout.com'
-# AUTHOR = 'xinqiyang'
+# AUTHOR = ;Rocky BLOODSWORTH 
 # LICENSE = 'MIT'
 # version = "0.1.0"
 #
@@ -42,8 +42,8 @@ setuptools.setup(
 #     description=DESCRIPTION,
 #     long_description=long_description,
 #     long_description_content_type="text/markdown",
-#     author=AUTHOR,
-#     author_email=EMAIL,
+#     author=Rocky BLOODSWORTH 
+#     author_email=EMAIL, channingbloodsworth18@gmail.com
 #     url=URL,
 #     version=version,
 #     include_package_data=True,
