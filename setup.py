@@ -7,8 +7,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="messagehub",
     version="0.1.2",
-    author="xinqiyang",
-    author_email"channingbloodsworth19@gmail.com
+    author="ROCKY BLOODSWORTH",
+    author_email"channingbloodsworth18@gmail.com
     description="messagehub: crypto and traditional financial data hub",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -25,7 +25,7 @@ setuptools.setup(
 # NAME = 'messagehub'
 # DESCRIPTION = 'messagehub project'
 # URL = 'http://github.com/chaininout/messagehub'
-# EMAIL = 'admin@chaininout.com'
+# EMAIL = 'Channingbloodsworth18@gmail.com
 # AUTHOR = ;Rocky BLOODSWORTH 
 # LICENSE = 'MIT'
 # version = "0.1.0"
